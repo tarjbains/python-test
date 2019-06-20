@@ -8,5 +8,7 @@ print ("{:>30}".format(name3))
 print()
 
 name4 = input("Enter name 4: ")
-print ("{:30}".format(name4))
+print ("{:>30}".format(name4))
+
+
 
