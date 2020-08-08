@@ -1,18 +1,9 @@
 print ("hello")
 print ("hello1")
 print ("hello")
-<<<<<<< HEAD
 print ("new change in ts-branch")
-<<<<<<< HEAD
-=======
 print ("hello3")
 print ("hello4")
 print (hello5")
-<<<<<<< HEAD
 print (hello6")
-=======
->>>>>>> 59bb62de8382b8d2d4d94cc2658259cc29d2825b
-=======
 print ("new change again")
->>>>>>> b21abdd58462aff2d7f03abf963ad561be7ad9f1
->>>>>>> ts-branch
